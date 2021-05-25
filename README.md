@@ -1,2 +1,3 @@
-# GitHubDesktop_SourceTree_CLI
-REVIEW EVERYTHING
+# GitHubDesktop SourceTree CLI
+
+ - We Learned Git Clone
